@@ -6,6 +6,7 @@ This project analyses data from an online gamified dyslexia screening test. It u
 
 Dataset
 Download: Kaggle, https://www.kaggle.com/datasets/luzrello/dyslexia
+
 Size: 3,644 participants aged 7–17; 392 (10.8%) have dyslexia
 Columns (196): gender, two language indicators, age, and six measures (clicks, hits, misses, score, accuracy, miss rate) for each of 32 reading and spelling tasks
 
