@@ -5,19 +5,21 @@ CSC1181 Machine Learning Project
 This project analyses data from an online gamified dyslexia screening test. It uses statistical tests to find patterns linked to dyslexia, builds classification models to predict dyslexia risk, and compares how well they perform. It also discusses how useful, reliable and fair machine learning is for dyslexia research.
 
 Dataset
-Source: Dytective online gamified test, desktop version: Rello et al. (2020), Predicting risk of dyslexia with an online gamified test, PLoS ONE 15(12): e0241687. doi:10.1371/journal.pone.0241687
 Download: Kaggle, https://www.kaggle.com/datasets/luzrello/dyslexia
 Size: 3,644 participants aged 7–17; 392 (10.8%) have dyslexia
 Columns (196): gender, two language indicators, age, and six measures (clicks, hits, misses, score, accuracy, miss rate) for each of 32 reading and spelling tasks
+
 Target: Dyslexia (Yes / No)
 Note: the file is semicolon-separated, so read it with pd.read_csv("Dyt-desktop.csv", sep=";")
+
 Repository structure
 ├── Dyslexia_ML_Project_notebook.ipynb   main notebook (all outputs saved)
 ├── Dyt-desktop.csv                      dataset
 ├── figures/                             charts produced by the notebook
 ├── results/                             result tables (CSV)
 └── README.md
-How to run
+
+How to run :
 Install Python 3.10+ and the libraries:
 pip install pandas numpy scipy scikit-learn matplotlib seaborn jupyter
 Open the notebook:
