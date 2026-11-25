@@ -38,9 +38,7 @@ The saved outputs are visible directly on GitHub without running anything.
 
 ## Authors
 
-| Name | Student ID |
-|---|---|
-| Joel John Thumpayil | A00099248 |
-| Thejus Sheen Chandran | A00105644 |
-| Augustine Ullas | A00099269 |
-| Cerin Susan Prakash | A00097722 |
+Joel John Thumpayil - A00099248
+Thejus Sheen Chandran - A00105644
+Augustine Ullas - A00099269
+Cerin Susan Prakash – A00097722
