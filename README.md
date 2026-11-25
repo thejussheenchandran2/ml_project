@@ -6,7 +6,7 @@ This project analyses data from an online gamified dyslexia screening test. It u
 
 Dataset
 Source: Dytective online gamified test, desktop version: Rello et al. (2020), Predicting risk of dyslexia with an online gamified test, PLoS ONE 15(12): e0241687. doi:10.1371/journal.pone.0241687
-Download: Kaggle, doi:10.34740/kaggle/dsv/1617514
+Download: Kaggle, https://www.kaggle.com/datasets/luzrello/dyslexia
 Size: 3,644 participants aged 7–17; 392 (10.8%) have dyslexia
 Columns (196): gender, two language indicators, age, and six measures (clicks, hits, misses, score, accuracy, miss rate) for each of 32 reading and spelling tasks
 Target: Dyslexia (Yes / No)
