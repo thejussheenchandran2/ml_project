@@ -1,0 +1,11 @@
+feature,test,dyslexia_median_or_rate,control_median_or_rate,statistic,p_value,effect_size,effect_measure,shapiro_p,p_bonferroni,significant_0.05
+Age,Mann-Whitney U,10.0,10.0,701488.0,0.001,0.1006,rank-biserial r,0.0,0.0103,True
+Mean_accuracy,Mann-Whitney U,0.6487,0.6469,637119.5,0.989,-0.0004,rank-biserial r,0.0,1.0,False
+Accuracy_sd,Mann-Whitney U,0.3911,0.3862,684667.0,0.0163,0.0742,rank-biserial r,0.0,0.1629,False
+Mean_missrate,Mann-Whitney U,0.203,0.197,663995.5,0.1764,0.0417,rank-biserial r,0.0,1.0,False
+Total_clicks,Mann-Whitney U,201.0,244.0,375575.5,0.0,-0.4108,rank-biserial r,0.0,0.0,True
+Total_hits,Mann-Whitney U,95.5,110.0,485072.5,0.0,-0.239,rank-biserial r,0.0,0.0,True
+Tasks_zero_hits,Mann-Whitney U,4.0,3.0,721692.5,0.0,0.1323,rank-biserial r,0.0,0.0002,True
+Gender_male,Chi-square,0.5485,0.5031,2.7055,0.1,0.0272,Cramér's V,,1.0,False
+Native_lang,Chi-square,0.6122,0.2245,267.3115,0.0,0.2708,Cramér's V,,0.0,True
+Other_lang,Chi-square,0.7653,0.8164,5.6324,0.0176,0.0393,Cramér's V,,0.1763,False

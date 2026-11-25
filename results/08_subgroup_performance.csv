@@ -1,0 +1,8 @@
+subgroup,n,positives,Recall,FPR,Balanced acc.
+Age_band=7–9,293,33,0.727,0.173,0.777
+Age_band=10–12,275,25,0.88,0.228,0.826
+Age_band=13–17,161,20,0.85,0.312,0.769
+Gender_male=Female,361,40,0.875,0.202,0.836
+Gender_male=Male,368,38,0.737,0.245,0.746
+Native_lang=No,541,30,0.6,0.068,0.766
+Native_lang=Yes,188,48,0.938,0.793,0.572

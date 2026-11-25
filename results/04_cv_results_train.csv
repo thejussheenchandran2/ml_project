@@ -1,0 +1,7 @@
+Model,Accuracy,Balanced acc.,Precision,Recall,F1,ROC AUC,PR AUC,Best params
+Baseline: majority class,0.892,0.5,0.0,0.0,0.0,0.5,0.108,-
+Baseline: stratified random,0.791,0.501,0.109,0.131,0.119,0.501,0.108,-
+Logistic Regression,0.764,0.755,0.278,0.742,0.404,0.829,0.402,{'clf__C': 0.1}
+Random Forest,0.773,0.758,0.286,0.739,0.412,0.825,0.382,"{'max_depth': 8, 'min_samples_leaf': 20, 'n_estimators': 300}"
+Gradient Boosting,0.789,0.759,0.301,0.72,0.424,0.832,0.406,"{'learning_rate': 0.03, 'max_depth': 3, 'max_iter': 200}"
+SVM (RBF),0.778,0.757,0.29,0.729,0.415,0.834,0.385,"{'clf__C': 1, 'clf__gamma': 'scale'}"

@@ -1,0 +1,7 @@
+Model,Accuracy,Balanced acc.,Precision,Recall,F1,ROC AUC,PR AUC
+Baseline: majority class,0.893,0.5,0.0,0.0,0.0,0.5,0.107
+Baseline: stratified random,0.793,0.483,0.08,0.09,0.085,0.483,0.105
+Logistic Regression,0.779,0.792,0.301,0.808,0.439,0.859,0.411
+Random Forest,0.781,0.776,0.297,0.769,0.429,0.85,0.395
+Gradient Boosting,0.785,0.767,0.297,0.744,0.425,0.869,0.468
+SVM (RBF),0.793,0.76,0.303,0.718,0.426,0.86,0.432

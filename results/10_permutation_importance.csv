@@ -1,0 +1,11 @@
+feature,importance,sd
+Accuracy_sd,-0.002,0.0017
+Gender_male,-0.0,0.0018
+Other_lang,0.0021,0.0031
+Tasks_zero_hits,0.0075,0.0024
+Mean_missrate,0.0179,0.0062
+Total_clicks,0.0496,0.0141
+Mean_accuracy,0.053,0.0129
+Native_lang,0.096,0.0118
+Age,0.0974,0.0155
+Total_hits,0.1818,0.0217

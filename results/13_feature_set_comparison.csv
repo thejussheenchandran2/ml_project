@@ -1,0 +1,4 @@
+Feature set,Accuracy,Balanced acc.,Precision,Recall,F1,ROC AUC,PR AUC
+Engineered (10),0.861,0.669,0.371,0.423,0.395,0.82,0.395
+Top-10 raw by mutual information,0.863,0.652,0.366,0.385,0.375,0.804,0.378
+All 196 raw (reference),0.912,0.68,0.652,0.385,0.484,0.876,0.559

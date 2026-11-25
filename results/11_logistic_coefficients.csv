@@ -1,0 +1,11 @@
+feature,coef_std,odds_ratio_per_sd
+Total_hits,-1.184,0.306
+Total_clicks,-0.542,0.582
+Other_lang,-0.198,0.821
+Accuracy_sd,-0.102,0.903
+Gender_male,0.092,1.097
+Tasks_zero_hits,0.117,1.124
+Mean_missrate,0.283,1.327
+Mean_accuracy,0.664,1.943
+Native_lang,0.699,2.013
+Age,0.85,2.34

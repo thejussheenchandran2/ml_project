@@ -1,0 +1,8 @@
+check,value
+Missing values (all cells),0.0
+Duplicate rows,0.0
+Accuracy cells > 1 (corrupted),1841.0
+Missrate cells > 1 (corrupted),1967.0
+Participants with >=1 corrupted cell,1371.0
+Accuracy cells > 1 after repair,0.0
+Share of task attempts with 0 clicks (%),2.16
