@@ -1,6 +1,6 @@
 # Exploring Dyslexia Patterns Using Machine Learning
 
-**CSC1181 Machine Learning Project**
+**CSC1181 Foundations of Statistical Analysis & Machine Learning**
 
 This project analyses data from an online gamified dyslexia screening test. It uses statistical tests to find patterns linked to dyslexia, builds classification models to predict dyslexia risk, and compares how well they perform. It also discusses how useful, reliable and fair machine learning is for dyslexia research.
 
