@@ -37,8 +37,9 @@ This project analyses data from an online gamified dyslexia screening test. It u
 The saved outputs are visible directly on GitHub without running anything.
 
 ## Authors
-
-Joel John Thumpayil    - A00099248  <br>
-Thejus Sheen Chandran  - A00105644  <br>
-Augustine Ullas        - A00099269  <br>
-Cerin Susan Prakash    - A00097722  <br>
+```
+Joel John Thumpayil    - A00099248  
+Thejus Sheen Chandran  - A00105644  
+Augustine Ullas        - A00099269  
+Cerin Susan Prakash    - A00097722  
+```
