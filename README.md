@@ -39,6 +39,6 @@ The saved outputs are visible directly on GitHub without running anything.
 ## Authors
 
 | Joel John Thumpayil - A00099248 |
-Thejus Sheen Chandran - A00105644 |
-Augustine Ullas - A00099269 |
-Cerin Susan Prakash - A00097722 |
+| Thejus Sheen Chandran - A00105644 |
+| Augustine Ullas - A00099269 |
+| Cerin Susan Prakash - A00097722 |
